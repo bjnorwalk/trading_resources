@@ -1,25 +1,15 @@
-<!-- markdownlint-disable -->
-<h1 align="center">
-    Best-of Algorithmic Trading
-    <br>
-</h1>
+# Best-of Algorithmic Trading
 
-<p align="center">
-    <strong>🏆&nbsp; A ranked list of algorithmic trading open-source libraries, frameworks, bots, tools, books, communities, education materials. Updated weekly.</strong>
-</p>
+> This is a fork of [merovinh/best-of-algorithmic-trading](https://github.com/merovinh/best-of-algorithmic-trading), kept as a reference list. The catalog, project descriptions, ranking method, and contribution process come from upstream. This fork's changes are limited to documentation.
 
-<p align="center">
-    <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-110-blue.svg?color=5ac4bf"></a>
-    <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
-</p>
+A catalog of trading libraries, frameworks, books, courses, and communities.
+It contains 110 projects across 7 categories, with
+320K combined GitHub stars. The ranking uses metadata collected from
+GitHub and package managers; it is not an evaluation of trading returns.
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+Follow the [upstream repository](https://github.com/merovinh/best-of-algorithmic-trading)
+for current releases and contributions.
 
-This curated list contains 110 awesome open-source projects with a total of 320K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
-
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
@@ -455,24 +445,20 @@ This curated list contains 110 awesome open-source projects with a total of 320K
 
 🔗&nbsp;<b><a href="https://t.me/pinescripters">PineScripters</a></b>  - The biggest and most active independent community of TradingView programmers in.. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
 
-
 ---
 
-## Related Resources
+## Updates and contributions
 
-- [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+The catalog is defined in `projects.yaml`. To suggest a project or correct its
+metadata, use the [upstream issues](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose)
+or follow the [contribution guide](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md).
+The upstream [Code of Conduct](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md)
+also applies.
 
-## Contribution
-
-Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
-
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose) and fill in the requested information.
-- Modify the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml).
-
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
-
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
+The README is assembled by [best-of-generator](https://github.com/best-of-lists/best-of-generator)
+from `projects.yaml` and the header/footer templates. Resource descriptions and
+ranking symbols below the introduction are retained from upstream.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[Creative Commons Attribution-ShareAlike 4.0](LICENSE).
